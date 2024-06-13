@@ -1,0 +1,68 @@
+{
+    "fruiddata": [
+        {
+            "id": 1,
+            "image": "https://tse3.explicit.bing.net/th?id=OIP.XprgHSCfPgHBpfQBBfAWqwHaFb&pid=Api&P=0&h=220",
+            "title": "Apple",
+            "price": 499
+        },
+        {
+            "id": 2,
+            "image": "https://tse4.mm.bing.net/th?id=OIP.nbEw_CbJuIQxfMNkc0hxfAHaFw&pid=Api&P=0&h=220",
+            "title": "Banana",
+            "price": 399.99
+        },
+        {
+            "id": 3,
+            "image": "https://tse2.mm.bing.net/th?id=OIP.qL-HErFkUTvb43i9cmZvFQHaGP&pid=Api&P=0&h=220",
+
+            "title": "water melon",
+            "price": 499.99
+        },
+        {
+            "id": 4,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.C2yRvmtMBxguk0l6W6bTTgHaGI&pid=Api&P=0&h=220",
+            
+            "title": "peanut",
+            "price": 929 
+        },
+        {
+            "id": 5,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.KNHJ3Zj5fMpWo1Hhs97uDwHaF7&pid=Api&P=0&h=220",
+            "title": "grapes",
+            "price": 590.99
+        },
+        {
+            "id": 1,
+            "image": "https://tse3.explicit.bing.net/th?id=OIP.XprgHSCfPgHBpfQBBfAWqwHaFb&pid=Api&P=0&h=220",
+            "title": "Apple",
+            "price": 499
+        },
+        {
+            "id": 2,
+            "image": "https://tse4.mm.bing.net/th?id=OIP.nbEw_CbJuIQxfMNkc0hxfAHaFw&pid=Api&P=0&h=220",
+            "title": "Banana",
+            "price": 399.99
+        },
+        {
+            "id": 3,
+            "image": "https://tse2.mm.bing.net/th?id=OIP.qL-HErFkUTvb43i9cmZvFQHaGP&pid=Api&P=0&h=220",
+
+            "title": "water melon",
+            "price": 499.99
+        },
+        {
+            "id": 4,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.C2yRvmtMBxguk0l6W6bTTgHaGI&pid=Api&P=0&h=220",
+            
+            "title": "peanut",
+            "price": 929 
+        },
+        {
+            "id": 5,
+            "image": "https://tse3.mm.bing.net/th?id=OIP.KNHJ3Zj5fMpWo1Hhs97uDwHaF7&pid=Api&P=0&h=220",
+            "title": "grapes",
+            "price": 590.99
+        }
+    ]
+}
